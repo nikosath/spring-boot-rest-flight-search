@@ -1,9 +1,9 @@
-###Comments about the current stage of the solution
+**Comments about the current stage of the solution**
 
-Cuurrently the functionality is demonstrated with an ad-hoc demo method (BusyFlightsApplication.demo()) that runs upon
+Currently the functionality is demonstrated with an ad-hoc demo method (BusyFlightsApplication.demo()) that runs upon
 starting the App. Please see the logs.
 
-####TODOs
+**TODOs**
 - AirlineResponseListWrapper.java
 
 //TODO AirlineResponseListWrapper to be used for having each airline return multiple flights (if more than one found, according to criteria)
@@ -15,10 +15,10 @@ starting the App. Please see the logs.
 //    TODO add more validations
 - CrazyAirService.java
 
-        //TODO replace with AsyncRestTemplate (and CompletableFuture?)
+// TODO replace with AsyncRestTemplate (and CompletableFuture?)
 
 
-###Problem to be solved
+**Problem to be solved**
 
 **Background:**
 
