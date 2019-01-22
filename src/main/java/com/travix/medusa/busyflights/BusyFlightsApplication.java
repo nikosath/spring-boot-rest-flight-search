@@ -15,6 +15,7 @@ public class BusyFlightsApplication {
     public static void main(String[] args) {
 
         context = SpringApplication.run(BusyFlightsApplication.class, args);
+        // TODO make sure context has finished initializing before calling demo
         demo();
     }
 
